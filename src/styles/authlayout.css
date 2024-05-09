@@ -1,0 +1,95 @@
+.meenakshi{
+    color:white;
+    margin-left:500px;
+    font-family:serif;
+    word-spacing: 10px;
+    font-size:35px
+}
+body
+{
+    
+    background: url("../assets/Images/txt.jpg");
+    background-repeat: repeat-y;
+    background-color: gray;
+}
+label{
+    color:red;
+    font-weight: bold;
+    font-size: 20px;
+    padding-left: 40px;
+    
+}
+h3{
+    margin-left:170px;
+    color:black;
+    font-family:serif;
+    letter-spacing: 2px;
+    font-size: 30px;
+    padding-top: 20px;
+    font-weight: bold;
+    
+}
+.cont
+{
+    margin-top: 60px;
+    width:130px;
+    height:26px;
+    margin-left: 160px;
+    border-radius: 4px;
+    background-color: blue;
+    color:white;
+}
+.paragraph
+{
+    padding-left: 30px;
+}
+.para
+{
+    padding-left: 50px;
+}
+h2
+{
+    margin-left: 110px;
+}
+.form
+{
+    width:500px;
+    background-color:white;
+    margin-left: 500px;
+    height: 480px;
+    box-shadow: 10px 5px peachpuff;
+    border-radius: 15px;
+    margin-top: 0px;
+
+}
+input{
+    width:220px;
+    height:26px;
+    margin-left: 40px;
+    border-radius: 4px;
+    box-shadow: 4px 3px blue;
+    margin-top: 40px;
+}
+.butt
+{
+    width:130px;
+    height:26px;
+    margin-left: 160px;
+    border-radius: 4px;
+    background-color: blue;
+    color:white;
+    font-size: 16px;
+}
+.forgot{
+    margin-left: 250px;
+    color: blue;
+    font-size: large;
+    
+}
+.continue
+{
+    padding-left: 60px;
+}
+span{
+    color:blue;
+}
